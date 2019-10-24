@@ -1,0 +1,284 @@
+18942:   /usr/local/lib/jdk1.8.0_152/bin/java -Xverify:none -XX:TieredStopAtLevel=1 -Dfile.encoding=UTF-8 -Duser.country=US -Duser.language=en -Duser.variant -cp /home/tito/git/cachefootprint/build/classes/java/main:/home/tito/git/cachefootprint/build/resources/main:/home/tito/.gradle/caches/modules-2/files-2.1/net.sf.ehcache/ehcache/2.10.6/38076997b10f5c762a210ea8b9f6099da35ac5f/ehcache-2.10.6.jar:/home/tito/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-cache/2.2.0.RELEASE/a58d48
+0000000000400000      4K r-x-- java
+0000000000600000      4K rw--- java
+0000000000fab000    132K rw---   [ anon ]
+0000000085c00000  59904K rw---   [ anon ]
+0000000089680000 1275392K -----   [ anon ]
+00000000d7400000 103424K rw---   [ anon ]
+00000000dd900000 564224K -----   [ anon ]
+0000000100000000   4608K rw---   [ anon ]
+0000000100480000 1043968K -----   [ anon ]
+00007f2e98000000    132K rw---   [ anon ]
+00007f2e98021000  65404K -----   [ anon ]
+00007f2e9c000000    132K rw---   [ anon ]
+00007f2e9c021000  65404K -----   [ anon ]
+00007f2ea0000000    132K rw---   [ anon ]
+00007f2ea0021000  65404K -----   [ anon ]
+00007f2ea4000000    132K rw---   [ anon ]
+00007f2ea4021000  65404K -----   [ anon ]
+00007f2ea8000000    132K rw---   [ anon ]
+00007f2ea8021000  65404K -----   [ anon ]
+00007f2eac000000    132K rw---   [ anon ]
+00007f2eac021000  65404K -----   [ anon ]
+00007f2eb0000000    132K rw---   [ anon ]
+00007f2eb0021000  65404K -----   [ anon ]
+00007f2eb4000000    132K rw---   [ anon ]
+00007f2eb4021000  65404K -----   [ anon ]
+00007f2eb8000000    152K rw---   [ anon ]
+00007f2eb8026000  65384K -----   [ anon ]
+00007f2ebc000000    504K rw---   [ anon ]
+00007f2ebc07e000  65032K -----   [ anon ]
+00007f2ec0000000    132K rw---   [ anon ]
+00007f2ec0021000  65404K -----   [ anon ]
+00007f2ec4000000    132K rw---   [ anon ]
+00007f2ec4021000  65404K -----   [ anon ]
+00007f2ec8000000    132K rw---   [ anon ]
+00007f2ec8021000  65404K -----   [ anon ]
+00007f2ecc000000    132K rw---   [ anon ]
+00007f2ecc021000  65404K -----   [ anon ]
+00007f2ed0000000    132K rw---   [ anon ]
+00007f2ed0021000  65404K -----   [ anon ]
+00007f2ed4000000    132K rw---   [ anon ]
+00007f2ed4021000  65404K -----   [ anon ]
+00007f2ed8000000   2484K rw---   [ anon ]
+00007f2ed826d000  63052K -----   [ anon ]
+00007f2eddcde000    512K rw---   [ anon ]
+00007f2eddd5e000   1536K -----   [ anon ]
+00007f2eddede000   2048K rw---   [ anon ]
+00007f2ede0de000     12K -----   [ anon ]
+00007f2ede0e1000   1016K rw---   [ anon ]
+00007f2ede1df000     12K -----   [ anon ]
+00007f2ede1e2000   1016K rw---   [ anon ]
+00007f2ede2e0000     12K -----   [ anon ]
+00007f2ede2e3000   1016K rw---   [ anon ]
+00007f2ede3e1000     12K -----   [ anon ]
+00007f2ede3e4000   1016K rw---   [ anon ]
+00007f2ede4e2000     12K -----   [ anon ]
+00007f2ede4e5000   1016K rw---   [ anon ]
+00007f2ede5e3000     12K -----   [ anon ]
+00007f2ede5e6000   1016K rw---   [ anon ]
+00007f2ede6e4000     12K -----   [ anon ]
+00007f2ede6e7000   1016K rw---   [ anon ]
+00007f2ede7e5000     12K -----   [ anon ]
+00007f2ede7e8000   1016K rw---   [ anon ]
+00007f2ede8e6000     12K -----   [ anon ]
+00007f2ede8e9000   1016K rw---   [ anon ]
+00007f2ede9e7000     12K -----   [ anon ]
+00007f2ede9ea000   1016K rw---   [ anon ]
+00007f2edeae8000     12K -----   [ anon ]
+00007f2edeaeb000   1016K rw---   [ anon ]
+00007f2edebe9000     12K -----   [ anon ]
+00007f2edebec000   1016K rw---   [ anon ]
+00007f2edecea000     12K -----   [ anon ]
+00007f2edeced000   1016K rw---   [ anon ]
+00007f2ededeb000     12K -----   [ anon ]
+00007f2ededee000   3064K rw---   [ anon ]
+00007f2edf0ec000     12K -----   [ anon ]
+00007f2edf0ef000   1016K rw---   [ anon ]
+00007f2edf1ed000     12K -----   [ anon ]
+00007f2edf1f0000   1016K rw---   [ anon ]
+00007f2edf2ee000     12K -----   [ anon ]
+00007f2edf2f1000   3064K rw---   [ anon ]
+00007f2edf5ef000   2048K rw---   [ anon ]
+00007f2edf7ef000   2048K rw---   [ anon ]
+00007f2edf9ef000   2048K rw---   [ anon ]
+00007f2edfbef000     68K r-x-- libnio.so
+00007f2edfc00000   2044K ----- libnio.so
+00007f2edfdff000      4K rw--- libnio.so
+00007f2edfe00000   2048K rw---   [ anon ]
+00007f2ee0000000    132K rw---   [ anon ]
+00007f2ee0021000  65404K -----   [ anon ]
+00007f2ee4000000    132K rw---   [ anon ]
+00007f2ee4021000  65404K -----   [ anon ]
+00007f2ee8000000   9356K rw---   [ anon ]
+00007f2ee8923000  56180K -----   [ anon ]
+00007f2eec098000   2048K rw---   [ anon ]
+00007f2eec298000   2048K rw---   [ anon ]
+00007f2eec498000  49156K rw---   [ anon ]
+00007f2eef499000     88K r-x-- libnet.so
+00007f2eef4af000   2048K ----- libnet.so
+00007f2eef6af000      4K rw--- libnet.so
+00007f2eef6b0000     36K r-x-- libmanagement.so
+00007f2eef6b9000   2044K ----- libmanagement.so
+00007f2eef8b8000      4K rw--- libmanagement.so
+00007f2eef8b9000   2048K rw---   [ anon ]
+00007f2eefab9000     12K -----   [ anon ]
+00007f2eefabc000   1016K rw---   [ anon ]
+00007f2eefbba000     24K r--s- log4j-api-2.12.1.jar
+00007f2eefbc0000     44K r--s- logback-core-1.2.3.jar
+00007f2eefbcb000    116K r--s- hibernate-validator-6.0.17.Final.jar
+00007f2eefbe8000    172K r--s- tomcat-embed-core-9.0.27.jar
+00007f2eefc13000    936K r--s- ehcache-2.10.6.jar
+00007f2eefcfd000      4K -----   [ anon ]
+00007f2eefcfe000   1024K rw---   [ anon ]
+00007f2eefdfe000     12K -----   [ anon ]
+00007f2eefe01000   1016K rw---   [ anon ]
+00007f2eefeff000      4K -----   [ anon ]
+00007f2eeff00000     12K -----   [ anon ]
+00007f2eeff03000   1012K rw---   [ anon ]
+00007f2ef0000000    408K rw---   [ anon ]
+00007f2ef0066000  65128K -----   [ anon ]
+00007f2ef4000000    132K rw---   [ anon ]
+00007f2ef4021000  65404K -----   [ anon ]
+00007f2ef8000000    132K rw---   [ anon ]
+00007f2ef8021000  65404K -----   [ anon ]
+00007f2efc000000    132K rw---   [ anon ]
+00007f2efc021000  65404K -----   [ anon ]
+00007f2f00000000    132K rw---   [ anon ]
+00007f2f00021000  65404K -----   [ anon ]
+00007f2f04000000    132K rw---   [ anon ]
+00007f2f04021000  65404K -----   [ anon ]
+00007f2f08000000    132K rw---   [ anon ]
+00007f2f08021000  65404K -----   [ anon ]
+00007f2f0c000000     20K r--s- jsse.jar
+00007f2f0c005000      8K r--s- classmate-1.5.0.jar
+00007f2f0c007000      8K r--s- jboss-logging-3.4.1.Final.jar
+00007f2f0c009000     20K r--s- jackson-core-2.10.0.jar
+00007f2f0c00e000     20K r--s- jakarta.validation-api-2.0.1.jar
+00007f2f0c013000     20K r--s- tomcat-embed-el-9.0.27.jar
+00007f2f0c018000     88K r--s- jackson-databind-2.10.0.jar
+00007f2f0c02e000    108K r--s- spring-core-5.2.0.RELEASE.jar
+00007f2f0c049000    596K r--s- jfxrt.jar
+00007f2f0c0de000      4K -----   [ anon ]
+00007f2f0c0df000     12K -----   [ anon ]
+00007f2f0c0e2000   1012K rw---   [ anon ]
+00007f2f0c1df000      4K -----   [ anon ]
+00007f2f0c1e0000     12K -----   [ anon ]
+00007f2f0c1e3000  63604K rw---   [ anon ]
+00007f2f10000000    132K rw---   [ anon ]
+00007f2f10021000  65404K -----   [ anon ]
+00007f2f14000000    132K rw---   [ anon ]
+00007f2f14021000  65404K -----   [ anon ]
+00007f2f18000000    132K rw---   [ anon ]
+00007f2f18021000  65404K -----   [ anon ]
+00007f2f1c000000     12K r--s- jackson-annotations-2.10.0.jar
+00007f2f1c003000     20K r--s- tomcat-embed-websocket-9.0.27.jar
+00007f2f1c008000      8K r--s- jackson-module-parameter-names-2.10.0.jar
+00007f2f1c00a000     28K r--s- snakeyaml-1.25.jar
+00007f2f1c011000     52K r--s- spring-beans-5.2.0.RELEASE.jar
+00007f2f1c01e000    108K r--s- spring-context-5.2.0.RELEASE.jar
+00007f2f1c039000     88K r--s- spring-boot-2.2.0.RELEASE.jar
+00007f2f1c04f000    156K r--s- spring-boot-autoconfigure-2.2.0.RELEASE.jar
+00007f2f1c076000    112K r--s- spring-web-5.2.0.RELEASE.jar
+00007f2f1c092000     12K -----   [ anon ]
+00007f2f1c095000   1016K rw---   [ anon ]
+00007f2f1c193000   2936K r---- locale-archive
+00007f2f1c471000     12K -----   [ anon ]
+00007f2f1c474000   1016K rw---   [ anon ]
+00007f2f1c572000     12K -----   [ anon ]
+00007f2f1c575000   1016K rw---   [ anon ]
+00007f2f1c673000      4K -----   [ anon ]
+00007f2f1c674000   9776K rw---   [ anon ]
+00007f2f1d000000   9344K rwx--   [ anon ]
+00007f2f1d920000 236416K -----   [ anon ]
+00007f2f2c000000  14108K rw---   [ anon ]
+00007f2f2cdc7000  51428K -----   [ anon ]
+00007f2f30001000     12K r--s- jackson-datatype-jsr310-2.10.0.jar
+00007f2f30004000     20K r--s- spring-expression-5.2.0.RELEASE.jar
+00007f2f30009000     72K r--s- spring-webmvc-5.2.0.RELEASE.jar
+00007f2f3001b000   7512K rw---   [ anon ]
+00007f2f30771000   1896K r--s- rt.jar
+00007f2f3094b000  12576K rw---   [ anon ]
+00007f2f31593000      4K -----   [ anon ]
+00007f2f31594000   1024K rw---   [ anon ]
+00007f2f31694000      4K -----   [ anon ]
+00007f2f31695000   1024K rw---   [ anon ]
+00007f2f31795000      4K -----   [ anon ]
+00007f2f31796000   1024K rw---   [ anon ]
+00007f2f31896000      4K -----   [ anon ]
+00007f2f31897000   1144K rw---   [ anon ]
+00007f2f319b5000   2488K -----   [ anon ]
+00007f2f31c23000    120K rw---   [ anon ]
+00007f2f31c41000   2488K -----   [ anon ]
+00007f2f31eaf000    204K rw---   [ anon ]
+00007f2f31ee2000   1100K -----   [ anon ]
+00007f2f31ff5000    152K rw---   [ anon ]
+00007f2f3201b000   3692K -----   [ anon ]
+00007f2f323b6000    108K r-x-- libzip.so
+00007f2f323d1000   2048K ----- libzip.so
+00007f2f325d1000      4K rw--- libzip.so
+00007f2f325d2000     44K r-x-- libnss_files-2.27.so
+00007f2f325dd000   2044K ----- libnss_files-2.27.so
+00007f2f327dc000      4K r---- libnss_files-2.27.so
+00007f2f327dd000      4K rw--- libnss_files-2.27.so
+00007f2f327de000     24K rw---   [ anon ]
+00007f2f327e4000     92K r-x-- libnsl-2.27.so
+00007f2f327fb000   2044K ----- libnsl-2.27.so
+00007f2f329fa000      4K r---- libnsl-2.27.so
+00007f2f329fb000      4K rw--- libnsl-2.27.so
+00007f2f329fc000      8K rw---   [ anon ]
+00007f2f329fe000     44K r-x-- libnss_nis-2.27.so
+00007f2f32a09000   2044K ----- libnss_nis-2.27.so
+00007f2f32c08000      4K r---- libnss_nis-2.27.so
+00007f2f32c09000      4K rw--- libnss_nis-2.27.so
+00007f2f32c0a000     32K r-x-- libnss_compat-2.27.so
+00007f2f32c12000   2048K ----- libnss_compat-2.27.so
+00007f2f32e12000      4K r---- libnss_compat-2.27.so
+00007f2f32e13000      4K rw--- libnss_compat-2.27.so
+00007f2f32e14000    172K r-x-- libjava.so
+00007f2f32e3f000   2044K ----- libjava.so
+00007f2f3303e000      8K rw--- libjava.so
+00007f2f33040000     52K r-x-- libverify.so
+00007f2f3304d000   2048K ----- libverify.so
+00007f2f3324d000      8K rw--- libverify.so
+00007f2f3324f000     28K r-x-- librt-2.27.so
+00007f2f33256000   2044K ----- librt-2.27.so
+00007f2f33455000      4K r---- librt-2.27.so
+00007f2f33456000      4K rw--- librt-2.27.so
+00007f2f33457000   1652K r-x-- libm-2.27.so
+00007f2f335f4000   2044K ----- libm-2.27.so
+00007f2f337f3000      4K r---- libm-2.27.so
+00007f2f337f4000      4K rw--- libm-2.27.so
+00007f2f337f5000  13152K r-x-- libjvm.so
+00007f2f344cd000   2044K ----- libjvm.so
+00007f2f346cc000    872K rw--- libjvm.so
+00007f2f347a6000    300K rw---   [ anon ]
+00007f2f347f1000   1948K r-x-- libc-2.27.so
+00007f2f349d8000   2048K ----- libc-2.27.so
+00007f2f34bd8000     16K r---- libc-2.27.so
+00007f2f34bdc000      8K rw--- libc-2.27.so
+00007f2f34bde000     16K rw---   [ anon ]
+00007f2f34be2000     12K r-x-- libdl-2.27.so
+00007f2f34be5000   2044K ----- libdl-2.27.so
+00007f2f34de4000      4K r---- libdl-2.27.so
+00007f2f34de5000      4K rw--- libdl-2.27.so
+00007f2f34de6000     88K r-x-- libjli.so
+00007f2f34dfc000   2044K ----- libjli.so
+00007f2f34ffb000      4K rw--- libjli.so
+00007f2f34ffc000    104K r-x-- libpthread-2.27.so
+00007f2f35016000   2044K ----- libpthread-2.27.so
+00007f2f35215000      4K r---- libpthread-2.27.so
+00007f2f35216000      4K rw--- libpthread-2.27.so
+00007f2f35217000     16K rw---   [ anon ]
+00007f2f3521b000    156K r-x-- ld-2.27.so
+00007f2f35242000      4K r--s- spring-jcl-5.2.0.RELEASE.jar
+00007f2f35243000      8K r--s- jackson-datatype-jdk8-2.10.0.jar
+00007f2f35245000     36K r--s- spring-aop-5.2.0.RELEASE.jar
+00007f2f3524e000      8K r--s- jakarta.annotation-api-1.3.5.jar
+00007f2f35250000      4K r--s- spring-boot-starter-tomcat-2.2.0.RELEASE.jar
+00007f2f35251000    812K rw---   [ anon ]
+00007f2f3531c000      4K -----   [ anon ]
+00007f2f3531d000     12K -----   [ anon ]
+00007f2f35320000   1028K rw---   [ anon ]
+00007f2f35421000     20K r--s- spring-context-support-5.2.0.RELEASE.jar
+00007f2f35426000      8K r--s- slf4j-api-1.7.25.jar
+00007f2f35428000      8K r--s- jul-to-slf4j-1.7.28.jar
+00007f2f3542a000      8K r--s- log4j-to-slf4j-2.12.1.jar
+00007f2f3542c000     24K r--s- logback-classic-1.2.3.jar
+00007f2f35432000      4K r--s- spring-boot-starter-logging-2.2.0.RELEASE.jar
+00007f2f35433000      4K r--s- spring-boot-starter-2.2.0.RELEASE.jar
+00007f2f35434000      4K r--s- spring-boot-starter-validation-2.2.0.RELEASE.jar
+00007f2f35435000      4K r--s- spring-boot-starter-json-2.2.0.RELEASE.jar
+00007f2f35436000      4K r--s- spring-boot-starter-web-2.2.0.RELEASE.jar
+00007f2f35437000      4K r--s- spring-boot-starter-cache-2.2.0.RELEASE.jar
+00007f2f35438000     32K rw-s- 18942
+00007f2f35440000      4K rw---   [ anon ]
+00007f2f35441000      4K r----   [ anon ]
+00007f2f35442000      4K r---- ld-2.27.so
+00007f2f35443000      4K rw--- ld-2.27.so
+00007f2f35444000      4K rw---   [ anon ]
+00007ffd8b2e1000    140K rw---   [ stack ]
+00007ffd8b360000     12K r----   [ anon ]
+00007ffd8b363000      8K r-x--   [ anon ]
+ffffffffff600000      4K r-x--   [ anon ]
+ total          5598312K
